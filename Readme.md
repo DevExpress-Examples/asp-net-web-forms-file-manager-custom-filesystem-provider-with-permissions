@@ -24,7 +24,7 @@ It is required only to create a custom FileSystem provider and additionally over
 - [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
 - [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 
-## Documentation → [Add links to the documentation so the user can go back to docs.devexpress.com]
+## Documentation
 
 - [Access Rules](https://docs.devexpress.com/AspNet/119542/components/file-management/file-manager/concepts/access-control-overview/access-rules)
 - [Permissions](https://docs.devexpress.com/AspNet/119543/components/file-management/file-manager/concepts/access-control-overview/permissions)
