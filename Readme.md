@@ -6,9 +6,6 @@
 
 # File Manager for ASP.NET Web Forms - Implement custom file system provider and set file/folder permissions
 
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128554594/)**
-<!-- run online end -->
 
 This example demonstrates how to create a custom file system provider and assign permissions to each folder or file. 
 
