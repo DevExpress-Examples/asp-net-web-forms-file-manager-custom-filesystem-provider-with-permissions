@@ -27,7 +27,7 @@ It is required only to create a custom FileSystem provider and additionally over
 - [Access Rules](https://docs.devexpress.com/AspNet/119542/components/file-management/file-manager/concepts/access-control-overview/access-rules)
 - [Permissions](https://docs.devexpress.com/AspNet/119543/components/file-management/file-manager/concepts/access-control-overview/permissions)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-file-manager-custom-filesystem-provider-with-permissions&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-file-manager-custom-filesystem-provider-with-permissions&~~~was_helpful=no)
 
